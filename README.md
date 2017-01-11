@@ -18,4 +18,5 @@ Before coming, it is *very important* that you download and install the followin
 
 # License
 
-MIT licensed
+MIT licensed  
+(c) 2016 Chu-Ming http://changchuming.com
