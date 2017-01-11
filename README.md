@@ -15,3 +15,7 @@ Here is an overview of the topics that I'll cover -
 Before coming, it is *very important* that you download and install the following programs.
 * Arduino Software
 * USB drivers
+
+# License
+
+MIT licensed
